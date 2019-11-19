@@ -1,0 +1,70 @@
+Introduction to Numpy, Pandas and Matplotlib
+Objectives:
+------------
+(Numpy)
+-------
+(a) Create arrays using Numpy
+(b) Perform various operations on arrays and manipulate them
+(c) Read and Write data from text/csv files into arrays and vice versa
+
+Panda
+-------
+(a) Create series and DataFrames
+(b) Indexing and slicing of data structure in Pandas
+(c) Reading and writing data from Excel/CSV format
+
+Matplotlib
+-----------
+(a) Create simple plot in matplotlib
+(b) Learn different plot formats available in matplotlib
+(c) Choose the right plot format for a plroblem at hand judiciously 
+
+Sample Project
+---------------
+(a) Social Media Opinion Tracker for the upcoming BD election
+(b) Percentage of unemployed youth in global and standing of bangladesh in the south asian and global market.
+(c) Geographical distribution of tending job patterns in Europe and North America.
+
+What is Data Analysis?
+-------------------------
+Jobs--
+    -- Business Analyst
+    --- Data Analyst
+    ----Lot of others
+Process
+----------
+{(a) Inspection (Raw Data) --> (b) Transformation (Transform data into desired shape) -->(c) Cleaning () --> (d) Modeling (Simply taking an averag,mean,median,variance,stddiv etc) } Data --> (e) Analyze trends and Make Decisions
+                |
+                |
+               GOAL
+               /|\
+            (i) Discovering the useful info
+            (ii) Suggesting Conclusion
+            (iii) Support Decision Making
+
+What is your data analysis process in regular life?
+----------------------------------------------------
+        Age Name Gender CGPA 
+Ha      11  ww   tt      3.99
+IT      12  hh   ii      2.00
+
+
+Salary -- 1000 USD
+          2000
+---------------------------
+
+Cleaning Conditions
+_____________________
+(a)  No null values
+(b)  No Empty Values
+(c)  No extreme value of Data
+
+Case Study
+------------
+Amazon vs Flipcart and buying decision making
+
+                    Python Data Analysis
+                           /|\
+     (a) Data Analysis     (b) Data Manipulation    (c) Data Visualization
+     ---------------------------------------------  ------------------------
+                    Numpy and Panda                     Matplotlib                   
