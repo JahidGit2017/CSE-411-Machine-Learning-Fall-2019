@@ -68,3 +68,100 @@ Amazon vs Flipcart and buying decision making
      (a) Data Analysis     (b) Data Manipulation    (c) Data Visualization
      ---------------------------------------------  ------------------------
                     Numpy and Panda                     Matplotlib                   
+
+
+
+
+
+
+
+Part-A: Introduction to Numpy
+Step-1: Multidimentional Array
+[
+    [1,2,3],
+    [4,5,6],
+    [7,8,9]
+]
+
+Step-2: Methods of processing Arrays
+- read from it
+- write to it
+- delete it
+- update it
+- calculate the typical CRUD operation
+
+Step-3: Perform the element by element operations
+
+T: [10,7,9]
+T[0]- 10
+T[1]- 7 XXXXX
+T[2]- 9+2=11
+T: [10,11]
+
+Step-4: Advanced Mathematical Operations
+Linear Algebra
+--------------
+1ac+1washroom+2bed+1balcony = 2000
+2x+y-z= 8 Room101SeaFind
+-3x-y+2z= -11
+-2x+y+2z= -3
+To such a system, one may associate its matrix
+M (3X3)=  [
+         2  1 -1
+        -3 -1 2
+        -2  1 2
+    ]
+
+Output, V (3X1)=[
+     8
+    -11
+    -3
+  ]
+X (3X1)=[x
+   y
+   z]
+
+MX=V
+(3X3) (3X1)= (3X1)
+
+Operations in Nympy?
+- 3 types
+(i) Linear Algenba and random generation
+(ii) Mathematical and Logical (Sum, Variant, stddiv etc)
+(iii) Fourier transform and shape manupulation (Signal Analysis)
+
+
+Numpy Array
+Multidimentional Object ---- (a) actual data
+                             (b) meta data
+
+
+
+
+
+Linearly Spaced Vector 
+
+
+
+Q1. Solving the dataformation problem
+Q2. 
+(i)Create a 2D array
+(ii) Save this array into newFile.csv using delimiter=','
+(iii) load the file into an array B using the np.genfromtxt(filename,delimiter) function
+
+
+Pandas 
+Panel Data 
+
+
+
+
+
+
+
+
+
+
+
+
+
