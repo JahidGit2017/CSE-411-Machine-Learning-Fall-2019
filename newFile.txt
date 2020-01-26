@@ -1,3 +1,7 @@
 1e+00 2e+00 3e+00
 4e+00 5e+00 6e+00
 7e+00 8e+00 9e+00
+geeksforgeeks.org/decision-tree/
+https://numbersandcode.com/a-brief-proof-of-concept-for-kernelized-decision-trees
+https://numbersandcode.com/how-decision-trees-can-learn-non-rectangular-decision-splits
+https://towardsdatascience.com/understanding-random-forest-58381e0602d2
